@@ -1,0 +1,7 @@
+voila
+ipython
+ipywidgets
+notebook
+pandas
+plotly==5.18.0
+numpy
